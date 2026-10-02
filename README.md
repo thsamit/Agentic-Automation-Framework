@@ -20,7 +20,7 @@ This repository contains an autonomous, agent-driven QA automation framework bui
    ```
 
 3. **Configure Antigravity Execution Policy:**
-   - Open VS Code Settings (`Ctrl + ,` or `Cmd + ,`).
+   - Open VS Code Settings (`Ctrl + ,`).
    - Go to **Antigravity Settings** and set **Security Preset** to **Turbo Mode** (or enable **Auto-Approve** for terminal commands and file edits).
 
 4. **Trigger the Autonomous Agent Pipeline:**
